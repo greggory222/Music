@@ -4,7 +4,7 @@ const Discord = require('discord.js'),
     client = new Discord.Client(),
     config = {
         prefix: "pm.",
-        token: process.env.TOKEN || "Nzc4NTM5MTAzMTQyNTQzNDAw.X7TdCg.g1mAnQnhGY4aq9hmoPHdoE0_1LQ"
+        token: process.env.TOKEN || "token"
     };
 
 // Create a new DisTube
